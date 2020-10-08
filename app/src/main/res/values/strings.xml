@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="fruitimage" />
+    <string name="fruitTime">TextView</string>
+    <string name="fruitChat">TextView</string>
+    <string name="weChat">微信</string>
+    <string name="we_chat">微信</string>
+    <string name="we_mail">通讯录</string>
+    <string name="we_find">发现</string>
+    <string name="we_me">我</string>
+</resources>
